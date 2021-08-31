@@ -42,7 +42,7 @@ On the side journey,
 
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 
-<img height="110" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
+<img height="105" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
   
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
   
