@@ -34,22 +34,31 @@ On the side journey,
 - 🥊 I have been into fitness by hitting the Gym and doing some calisthenics training.
 - 💻 Exploring new technologies and upskilling myself from the internet.
  
-
-**languages and tools:**  
+<h1 align="center">Languages and tools I use</h1> 
 <p>
-<img height="30" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
-<img height="30" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
-<img height="30" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
-<img height="30" src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg"> 
-<img height="30" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
-<img height="30" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png">
+<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
+  
+<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
+  
+<img height="100" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png">
 
-<img height="30" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
+  
+<img height="100" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> 
+  
+<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
+  
+<img height="100" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png">
 
-<img height="30" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  </p>
+<img height="100" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+
+<img height="100" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png">
+  
+<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  
+<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+</p>
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
