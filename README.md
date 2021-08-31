@@ -52,7 +52,7 @@
 - 🎸 I love to play Guitar along with singing 
 - 🥊 I am into fitness by hitting the Gym and doing calisthenics training.
 - 💻 Exploring new technologies and upskilling myself from the internet.
-- ⚡ Coding different problems and participating in contests
+- ⚡ Coding and solving different problems and participating in contests
  
  <br>
 <h1 align="center">Languages and tools I use</h1> 
