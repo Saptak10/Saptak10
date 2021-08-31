@@ -37,17 +37,20 @@ On the side journey,
 
 **languages and tools:**  
 
-<code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"></code>
-<code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png"></code>
-<code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"></code>
-<code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"></code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png">
+
+<img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png">
+
+<img height="25" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/html.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
+<img height="25" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png">
+
+<img height="25" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="25" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
