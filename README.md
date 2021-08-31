@@ -36,19 +36,17 @@ On the side journey,
  
 <h1 align="center">Languages and tools I use</h1> 
 <p>
-<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
-  
-<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
+<img height="100" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
 <img height="100" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
 
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
- 
-<img height="100" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
 
 <img height="125" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
-
-<img height="125" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png">
+  
+<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
+  
+<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
   
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
 
