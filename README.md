@@ -66,7 +66,7 @@ On the side journey,
 <img height="100" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 </p>
 
-## 📈 Github Statistics
+<h1 align="center">📈 Github Statistics</h1> 
 
 [![Saptak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptak10&show_icons=true&theme=radical)](https://github.com/Saptak10/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Saptak10/github-readme-stats) 
 
