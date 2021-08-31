@@ -60,10 +60,6 @@ On the side journey,
   <br/>
    <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  
-<br>
-![Customized Card](https://Portfolio.vercel.app/api/pin?username=Saptak10&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
 
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
