@@ -25,8 +25,7 @@
 
 <p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em></p>
   
-# Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/),
-# Currently pursuing B.Tech in Computer Science Engineering from KiiT University 
+# Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), Currently pursuing B.Tech in Computer Science Engineering from KiiT University 
 # I am a MERN stack developer, learning and developing application using technologies related to Web.
 
 On the side journey,
