@@ -43,9 +43,11 @@ On the side journey,
 <img height="100" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png">
 
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
-  
+ 
 <img height="100" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> 
-  
+
+<img height="100" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
+
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
   
 <img height="100" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png">
@@ -55,8 +57,6 @@ On the side journey,
 <img height="100" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png">
   
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 </p>
 <!--
