@@ -36,7 +36,7 @@ On the side journey,
  
 <h1 align="center">Languages and tools I use</h1> 
 <p>
-<img height="100" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
+<img height="110" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
 <img height="100" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
 
@@ -48,7 +48,7 @@ On the side journey,
   
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
   
-<img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_rOdwZSSj2OZdPu7-VFn2mXBYc4O2fYTZj2hioxvT3lKIjjW7A5WspSJADepnKSdtVc&usqp=CAU">
+<img height="100" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png">
 
 <img height="100" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
   
