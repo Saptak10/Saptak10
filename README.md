@@ -40,7 +40,7 @@
 On the side journey,
   
 - 🎸 I love to play Guitar along with singing 
-- 🥊 I have been into fitness by hitting the Gym and doing some calisthenics training.
+- 🥊 I am into fitness by hitting the Gym and doing calisthenics training.
 - 💻 Exploring new technologies and upskilling myself from the internet.
  
 <h1 align="center">Languages and tools I use</h1> 
