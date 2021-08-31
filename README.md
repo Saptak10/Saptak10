@@ -1,5 +1,4 @@
-<!-- ### Hi there I am Saptak Chakraborty👋 -->
-<h1 align="center"> Saptak Chakraborty 👋 </h1>
+# Saptak Chakraborty 👋 
 
 <h1>
   <a align="center" href="https://www.linkedin.com/in/saptak-chakraborty/">
