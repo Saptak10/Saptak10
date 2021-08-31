@@ -45,7 +45,7 @@
 ## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), MERN Stack Developer
 
 - 🌱 Learning new technologies and developing Web Applications 
-- 📚 Currently in 3rd year and pursuing my B.Tech degree in Computer Science Engineering from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
+- 📚 Currently in 3rd year and pursuing my B.Tech degree in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
 
 #### On the side journey,
   
