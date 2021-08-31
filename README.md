@@ -1,4 +1,4 @@
-<h1 align="center">Saptak Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1><img align="right" src="https://i.ibb.co/xjNmLpZ/0005e4743a11f91371bca548e16f6460296e57f22d44b407f7381a84e04d2a46-removebg-preview.png" alt="0005e4743a11f91371bca548e16f6460296e57f22d44b407f7381a84e04d2a46-removebg-preview" border="0">
+<h1 align="center">Saptak Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1><img align="right" src="https://sdk.bitmoji.com/render/panel/760b2781-7a83-4a46-b34d-b6a23c0c8186-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" alt="Saptak's Bitemoji" border="0">
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
@@ -49,8 +49,6 @@ On the side journey,
 - 🎸 I love to play Guitar along with singing 
 - 🥊 I am into fitness by hitting the Gym and doing calisthenics training.
 - 💻 Exploring new technologies and upskilling myself from the internet.
-
-<img alt="Saptak's Bitemoji" width="45px" src="https://sdk.bitmoji.com/render/panel/760b2781-7a83-4a46-b34d-b6a23c0c8186-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" />
  
 <h1 align="center">Languages and tools I use</h1> 
 <p>
