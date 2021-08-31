@@ -2,11 +2,11 @@
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
-  <img alt="Saptak's Website" width="22px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
+  <img alt="Saptak's Website" width="30px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
 </a>
   
  <a href="https://www.facebook.com/Saptak10">
-  <img alt="Saptak's Facebook" width="40px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-768x480.png" />
+  <img alt="Saptak's Facebook" width="38px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-768x480.png" />
 </a>
   
   <a href="https://www.instagram.com/saptak10/">
