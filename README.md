@@ -48,7 +48,7 @@ On the side journey,
 
 <img height="125" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
 
-<img height="100" src="https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg">
+<img height="100" src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png">
   
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
 
