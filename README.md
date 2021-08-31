@@ -56,7 +56,7 @@ On the side journey,
   
 <img height="100" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
 
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
 
 <img height="105" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
 
