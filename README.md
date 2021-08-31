@@ -59,7 +59,7 @@ On the side journey,
   
 ## Contribution Graph
 
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&theme=github" alt="Saptak10" /></p> 
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&show_icons=true&theme=radical" alt="Saptak10" /></p> 
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
