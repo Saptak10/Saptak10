@@ -40,9 +40,9 @@
 
 <br>
 
-<p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em></p><img align="right" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" alt="Saptak's Bitemoji" border="0">
+<p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em></p><img align="right" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" alt="Saptak's Bitemoji" border="0"/>
   
-## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/),a MERN Stack Developer
+## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), MERN Stack Developer
 
 - 🌱 Learning new technologies and developing Web Applications 
 - 📚 Currently in 3rd year and pursuing my B.Tech degree in Computer Science Engineering from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
