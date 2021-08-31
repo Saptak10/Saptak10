@@ -2,35 +2,35 @@
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
-  <img alt="Saptak's Website" width="23px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
+  <img alt="Saptak's Website" width="43px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
 </a>
   
  <a href="https://www.facebook.com/Saptak10">
-  <img alt="Saptak's Facebook" width="38px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-768x480.png" />
+  <img alt="Saptak's Facebook" width="58px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-768x480.png" />
 </a>
   
   <a href="https://www.instagram.com/saptak10/">
-  <img alt="Saptak's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
+  <img alt="Saptak's Instagram" width="42px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
   
   <a href="https://www.linkedin.com/in/saptak-chakraborty/">
-  <img alt="Saptak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Saptak's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
 <a href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
-  <img alt="Saptak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img alt="Saptak's Spotify" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
   
 <a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
-  <img alt="Saptak's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
+  <img alt="Saptak's YouTube" width="42px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
    
 <a href="https://www.hackerrank.com/saptak_bugatti20">
-  <img alt="Saptak's HackerRank" width="28x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
+  <img alt="Saptak's HackerRank" width="48x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
 </a>   
 
 <a href="https://www.codechef.com/users/saptak10">
-  <img alt="Saptak's Codechef" width="25px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
+  <img alt="Saptak's Codechef" width="45px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
 </a>  
    
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:saptak.bugatti20@gmail.com)
@@ -64,7 +64,7 @@ On the side journey,
   
 <img height="70" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
   
-<img height="65" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
+<img height="67" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
   
 <img height="80" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
  
