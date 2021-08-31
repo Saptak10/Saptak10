@@ -1,6 +1,7 @@
 <!-- ### Hi there I am Saptak Chakraborty👋 -->
-<h1 align="center"> Saptak Chakraborty 👋 
+<h1 align="center"> Saptak Chakraborty 👋 </h1>
 
+<h1>
   <a align="center" href="https://www.linkedin.com/in/saptak-chakraborty/">
   <img align="left" alt="Saptak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
