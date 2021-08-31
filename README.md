@@ -47,6 +47,8 @@ On the side journey,
 <img height="100" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> 
 
 <img height="125" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
+  
+<img height="100" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png">
 
 <img height="100" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png">
   
