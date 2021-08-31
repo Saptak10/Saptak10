@@ -25,8 +25,8 @@
 
 <p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em></p>
   
-# Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), I am a MERN stack developer, learning and developing application using technologies related to Web
-# I am Currently pursuing B.Tech in Computer Science Engineering from KiiT University 
+## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), I am a MERN stack developer, learning and developing application using technologies related to Web
+## I am Currently pursuing B.Tech in Computer Science Engineering from KiiT University 
 
 On the side journey,
   
@@ -37,7 +37,7 @@ On the side journey,
 
 **languages and tools:**  
 
-<img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> <img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> <img height="25" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/html.png"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fjavascript-logo-node-js-javascript-react-logo-express-js-png%2FqHrEb0iR&psig=AOvVaw3tk912klEwGK0VgXMXvkoA&ust=1630484862674000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIijvtHr2vICFQAAAAAdAAAAABAK"> <img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
+<img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> <img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> <img height="25" src="https://banner2.cleanpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fjavascript-logo-node-js-javascript-react-logo-express-js-png%2FqHrEb0iR&psig=AOvVaw3tk912klEwGK0VgXMXvkoA&ust=1630484862674000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIijvtHr2vICFQAAAAAdAAAAABAK"> <img height="25" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
 <img height="25" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png">
 
 <img height="25" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
