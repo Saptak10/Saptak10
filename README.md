@@ -8,6 +8,8 @@
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UC7VlXXvUZhxoo2ux617y_Gg?logo=YouTube&style=flat)](https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg)
 [![HackerRank](https://img.shields.io/website?label=HackerRank&style=flat&url=https%3A%2F%2Fwww.hackerrank.com%2Fsaptak_bugatti20)](https://www.hackerrank.com/saptak_bugatti20)
 
+  </h1>
+  
 <a align="center" href="https://www.linkedin.com/in/saptak-chakraborty/">
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -18,7 +20,7 @@
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
   
-</h1>
+
 <br>
 
 <p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em>
