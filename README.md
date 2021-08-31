@@ -47,7 +47,7 @@
 - 🌱 Learning new technologies and developing Web Applications 
 - 📚 Currently in 3rd year and pursuing my B.Tech degree in Computer Science Engineering from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
 
-On the side journey,
+#### On the side journey,
   
 - 🎸 I love to play Guitar along with singing 
 - 🥊 I am into fitness by hitting the Gym and doing calisthenics training.
