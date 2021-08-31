@@ -48,7 +48,7 @@ On the side journey,
 
 <img height="125" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
   
-<img height="100" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png">
+<img height="100" src="https://i.pinimg.com/564x/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.jpg">
 
 <img height="100" src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png">
   
