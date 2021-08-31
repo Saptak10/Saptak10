@@ -6,7 +6,7 @@
 </a>
   
  <a href="https://www.facebook.com/Saptak10">
-  <img alt="Saptak's Facebook" width="22px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-768x480.png" />
+  <img alt="Saptak's Facebook" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-768x480.png" />
 </a>
   
   <a href="https://www.instagram.com/saptak10/">
