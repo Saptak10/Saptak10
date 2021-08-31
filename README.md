@@ -26,7 +26,7 @@
 </a>
    
 <a href="https://www.hackerrank.com/saptak_bugatti20">
-  <img alt="Saptak's HackerRank" width="25x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
+  <img alt="Saptak's HackerRank" width="30x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
 </a>   
 
 <a href="https://www.codechef.com/users/saptak10">
