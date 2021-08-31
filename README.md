@@ -48,13 +48,11 @@ On the side journey,
 
 <img height="100" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
 
-<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
+<img height="100" src="https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg">
   
-<img height="100" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png">
+<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true">
 
 <img height="100" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
-
-<img height="100" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png">
   
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 
