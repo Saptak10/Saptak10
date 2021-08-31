@@ -53,9 +53,6 @@ On the side journey,
 <img height="100" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
   
 <img height="100" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-  
-<img height="100" src="https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg">
-
 </p>
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
