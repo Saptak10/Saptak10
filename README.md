@@ -78,7 +78,7 @@ On the side journey,
 [![Saptak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptak10&show_icons=true&theme=radical)](https://github.com/Saptak10/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Saptak10/github-readme-stats) 
 
   <br/>
-   <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak'%20's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <!--
