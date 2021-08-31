@@ -1,14 +1,14 @@
 <h1 align="center">Saptak Chakraborty 👋 </h1>
 
-<h1>
-  <a align="center" href="https://www.linkedin.com/in/saptak-chakraborty/">
-  <img align="left" alt="Saptak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/saptak-chakraborty/">
+  <img alt="Saptak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a align="center" href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
-  <img align="left" alt="Saptak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
+  <img alt="Saptak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a align="center" href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
-  <img align="left" alt="Saptak's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
+<a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
+  <img alt="Saptak's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
 
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:saptak.bugatti20@gmail.com)
