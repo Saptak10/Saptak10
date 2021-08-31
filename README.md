@@ -64,7 +64,7 @@ On the side journey,
   
 <img height="70" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
   
-<img height="67" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
+<img height="65" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
   
 <img height="80" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
  
