@@ -49,6 +49,8 @@ On the side journey,
 - 🎸 I love to play Guitar along with singing 
 - 🥊 I am into fitness by hitting the Gym and doing calisthenics training.
 - 💻 Exploring new technologies and upskilling myself from the internet.
+
+<img alt="Saptak's Bitemoji" width="45px" src="https://sdk.bitmoji.com/render/panel/760b2781-7a83-4a46-b34d-b6a23c0c8186-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" />
  
 <h1 align="center">Languages and tools I use</h1> 
 <p>
