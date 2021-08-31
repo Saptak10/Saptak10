@@ -53,6 +53,7 @@
 - 🥊 I am into fitness by hitting the Gym and doing calisthenics training.
 - 💻 Exploring new technologies and upskilling myself from the internet.
  
+ <br>
 <h1 align="center">Languages and tools I use</h1> 
 <p>
 <img height="80" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
