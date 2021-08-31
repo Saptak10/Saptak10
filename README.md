@@ -1,12 +1,26 @@
 <h1 align="center">Saptak Chakraborty 👋 </h1>
 
 <h1 align="center">
+   <a href="https://saptakportfolio.netlify.app/">
+  <img alt="Saptak's Facebook" width="22px" src="https://drive.google.com/file/d/1hZH5LoK6sYtmWfTC28TZ7XIB3F4D7Ap5/view?usp=sharing" />
+</a>
+  
+ <a href="https://www.facebook.com/Saptak10">
+  <img alt="Saptak's Facebook" width="22px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-768x480.png" />
+</a>
+  
+  <a href="https://www.instagram.com/saptak10/">
+  <img alt="Saptak's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
+</a>
+  
   <a href="https://www.linkedin.com/in/saptak-chakraborty/">
   <img alt="Saptak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+  
 <a href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
   <img alt="Saptak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+  
 <a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
   <img alt="Saptak's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
