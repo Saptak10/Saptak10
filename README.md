@@ -1,4 +1,4 @@
-<h1 align="center">Saptak Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1><img align="right" src="https://sdk.bitmoji.com/render/panel/760b2781-7a83-4a46-b34d-b6a23c0c8186-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" alt="Saptak's Bitemoji" border="0">
+<h1 align="center">Saptak Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
@@ -40,7 +40,7 @@
 
 <br>
 
-<p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em></p>
+<p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em></p><img align="right" src="https://sdk.bitmoji.com/render/panel/760b2781-7a83-4a46-b34d-b6a23c0c8186-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" alt="Saptak's Bitemoji" border="0">
   
 ## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/),a MERN Stack Developer, learning and developing Web Applications using different technologies. I am Currently in 3rd year and pursuing my B.Tech degree in Computer Science Engineering from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar. 
 
