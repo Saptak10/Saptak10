@@ -26,11 +26,11 @@
 </a>
    
 <a href="https://www.hackerrank.com/saptak_bugatti20">
-  <img alt="Saptak's HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
+  <img alt="Saptak's HackerRank" width="25x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
 </a>   
 
 <a href="https://www.codechef.com/users/saptak10">
-  <img alt="Saptak's Codechef" width="22px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
+  <img alt="Saptak's Codechef" width="25px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
 </a>  
    
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:saptak.bugatti20@gmail.com)
