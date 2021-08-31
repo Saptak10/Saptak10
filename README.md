@@ -2,7 +2,7 @@
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
-  <img alt="Saptak's Website" width="25px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
+  <img alt="Saptak's Website" width="23px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
 </a>
   
  <a href="https://www.facebook.com/Saptak10">
@@ -26,7 +26,7 @@
 </a>
    
 <a href="https://www.hackerrank.com/saptak_bugatti20">
-  <img alt="Saptak's HackerRank" width="30x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
+  <img alt="Saptak's HackerRank" width="28x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
 </a>   
 
 <a href="https://www.codechef.com/users/saptak10">
