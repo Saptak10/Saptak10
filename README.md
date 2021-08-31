@@ -43,13 +43,15 @@ On the side journey,
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 
 <img height="105" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
+
+<img height="100" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
   
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
   
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
   
 <img height="110" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
-  
+ 
 <img height="100" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
   
 <img height="100" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
