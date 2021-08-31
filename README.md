@@ -2,7 +2,7 @@
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
-  <img alt="Saptak's Website" width="30px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
+  <img alt="Saptak's Website" width="25px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
 </a>
   
  <a href="https://www.facebook.com/Saptak10">
