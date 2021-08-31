@@ -1,5 +1,5 @@
 <!-- ### Hi there I am Saptak Chakraborty👋 -->
-<h1 align="center"> Saptak Chakraborty 👋 </h1>
+<h1 align="center"> Saptak Chakraborty 👋 
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/Saptak10)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptak-chakraborty/)
@@ -17,6 +17,9 @@
 <a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
+  
+</h1>
+<br>
 
 <p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em>
   
