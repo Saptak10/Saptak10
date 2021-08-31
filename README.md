@@ -1,4 +1,5 @@
-### Hi there I am Saptak Chakraborty👋
+<!-- ### Hi there I am Saptak Chakraborty👋 -->
+<h1 align="center"> Saptak Chakraborty 👋 </h1>
 
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
