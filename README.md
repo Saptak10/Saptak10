@@ -44,9 +44,9 @@ On the side journey,
 
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
  
-<img height="100" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> 
+<img height="100" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
 
-<img height="125" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
+<img height="125" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png">
   
 <img height="100" src="https://i.pinimg.com/564x/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.jpg">
 
