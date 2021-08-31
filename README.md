@@ -24,10 +24,17 @@
 <a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
   <img alt="Saptak's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
+   
+<a href="https://www.hackerrank.com/saptak_bugatti20">
+  <img alt="Saptak's HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
+</a>   
 
+<a href="https://www.codechef.com/users/saptak10">
+  <img alt="Saptak's Codechef" width="22px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
+</a>  
+   
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:saptak.bugatti20@gmail.com)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=1929114@kiit.ac.in&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:1929114@kiit.ac.in)
-[![HackerRank](https://img.shields.io/website?label=HackerRank&style=flat&url=https%3A%2F%2Fwww.hackerrank.com%2Fsaptak_bugatti20)](https://www.hackerrank.com/saptak_bugatti20)
   
 </h1>
 
