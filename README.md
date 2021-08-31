@@ -1,4 +1,4 @@
-<h1 align="center">Saptak Chakraborty 👋 </h1>
+<h1 align="center">Saptak Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1><img align="right" src="https://i.ibb.co/xjNmLpZ/0005e4743a11f91371bca548e16f6460296e57f22d44b407f7381a84e04d2a46-removebg-preview.png" alt="0005e4743a11f91371bca548e16f6460296e57f22d44b407f7381a84e04d2a46-removebg-preview" border="0">
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
