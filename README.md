@@ -58,8 +58,11 @@ On the side journey,
 [![Saptak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptak10&show_icons=true&theme=radical)](https://github.com/Saptak10/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Saptak10/github-readme-stats) 
   
 ## Contribution Graph
+  <br/>
+   <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&show_icons=true&theme=radical" alt="Saptak10" /></p> 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Saptak10&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
