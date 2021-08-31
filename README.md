@@ -67,7 +67,7 @@ On the side journey,
 </p>
 
 ## 📈 Github Statistics
-  <br/>
+
 [![Saptak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptak10&show_icons=true&theme=radical)](https://github.com/Saptak10/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Saptak10/github-readme-stats) 
 
   <br/>
