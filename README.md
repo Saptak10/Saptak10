@@ -25,6 +25,14 @@
 
 <p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em>
   
+Hey there, I am Saptak Chakraborty, aspiring to be a Full Stack Web Developer and coding my way through life.
+
+On the side journey,
+  
+- 🎸 I love to play Guitar along with singing 
+- 🥊 I have been into fitness by hitting the Gym and doing some calisthenics training.
+- 💻 Exploring new technologies and upskilling myself from the internet.
+  
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
