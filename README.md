@@ -48,7 +48,7 @@ On the side journey,
   
 <img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
   
-<img height="100" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png">
+<img height="110" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
 
 <img height="100" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
   
