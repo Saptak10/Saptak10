@@ -52,25 +52,25 @@ On the side journey,
  
 <h1 align="center">Languages and tools I use</h1> 
 <p>
-<img height="110" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
+<img height="80" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
-<img height="100" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
+<img height="70" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
 
-<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
 
-<img height="105" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
+<img height="75" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
 
-<img height="100" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
+<img height="70" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
   
-<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
+<img height="70" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
   
-<img height="100" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
+<img height="70" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
   
-<img height="110" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
+<img height="80" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
  
-<img height="100" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
+<img height="70" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
   
-<img height="100" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+<img height="70" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 </p>
 
 <h1 align="center">📈 Github Statistics</h1> 
