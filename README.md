@@ -8,6 +8,18 @@
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UC7VlXXvUZhxoo2ux617y_Gg?logo=YouTube&style=flat)](https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg)
 [![HackerRank](https://img.shields.io/website?label=HackerRank&style=flat&url=https%3A%2F%2Fwww.hackerrank.com%2Fsaptak_bugatti20)](https://www.hackerrank.com/saptak_bugatti20)
 
+<a href="https://www.linkedin.com/in/saptak-chakraborty/">
+  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
+  <img align="left" alt="Shibin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
+  <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
+</a>
+
+<p align='center'><em><b>If you Learn something new everyday,you can achieve anything in life.</b></em>
+  
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
