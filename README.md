@@ -79,7 +79,7 @@
  
 <img height="70" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
   
-<img height="70" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+<img height="67" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 </p>
 
 <h1 align="center">📈 Github Statistics</h1> 
