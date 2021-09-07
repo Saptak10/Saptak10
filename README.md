@@ -58,12 +58,14 @@
 <h1 align="center">Languages and tools I use</h1> 
 <p>
 <img height="80" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
+   
+<img height="75" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
   
 <img height="70" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
 
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
 
-<img height="75" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
+<img height="70" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png">
 
 <img height="70" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
    
