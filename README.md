@@ -22,7 +22,7 @@
 </a>
   
 <a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
-  <img alt="Saptak's YouTube" width="42px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
+  <img alt="Saptak's YouTube" width="42px" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" />
 </a>
    
 <a href="https://www.hackerrank.com/saptak_bugatti20">
