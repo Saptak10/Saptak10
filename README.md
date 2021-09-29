@@ -39,7 +39,7 @@
 
 </h1>
 
-![Visitor Count](https://profile-counter.glitch.me/Saptak10/count.svg)
+# ![Visitor Count](https://profile-counter.glitch.me/Saptak10/count.svg)
 
 <br>
 
