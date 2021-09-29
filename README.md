@@ -68,8 +68,10 @@
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
 
 <img height="75" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png">
+   
+<img height="75" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png">
 
-<img height="70" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
    
 <img height="70" src="https://material-ui.com/static/logo.png">
   
