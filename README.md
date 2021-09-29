@@ -27,7 +27,15 @@
    
 <a href="https://www.hackerrank.com/saptak_bugatti20">
   <img alt="Saptak's HackerRank" width="48x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />
-</a>   
+</a>  
+   
+<a href="https://auth.geeksforgeeks.org/user/saptak10/profile">
+  <img alt="Saptak's GeeksforGeeks" width="48x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" />
+</a> 
+   
+<a href="https://leetcode.com/Saptak10/">
+  <img alt="Saptak's Leetcode" width="48x" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+</a>
 
 <a href="https://www.codechef.com/users/saptak10">
   <img alt="Saptak's Codechef" width="45px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
@@ -54,7 +62,7 @@
 - 🎸 I love to play Guitar along with Singing and Beatboxing.
 - 🥊 A fitness enthuasiast into Gym, kickboxing and calisthenics for years.
 - 💻 Exploring new technologies and upskilling myself from the internet.
-- ⚡ Solving Competitive Coding in different platforms and giving contests.
+- ⚡ Coding in different platforms and giving contests and Hackathons.
  
  <br>
 <h1 align="center">Languages and tools I use</h1> 
