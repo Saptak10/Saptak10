@@ -73,7 +73,7 @@
    
 <img height="75" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
    
-<img height="60" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
+<img height="55" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
   
 <img height="70" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
   
