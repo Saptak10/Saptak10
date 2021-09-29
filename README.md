@@ -54,7 +54,7 @@
 - 🎸 I love to play Guitar along with Singing and Beatboxing.
 - 🥊 A fitness enthuasiast into Gym, kickboxing and calisthenics for years.
 - 💻 Exploring new technologies and upskilling myself from the internet.
-- ⚡ Solving Competitive Coding in different platforms and giving contests and Hackathons.
+- ⚡ Solving Competitive Coding in different platforms and participating in contests.
  
  <br>
 <h1 align="center">Languages and tools I use</h1> 
