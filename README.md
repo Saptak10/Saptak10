@@ -51,8 +51,8 @@
 
 ### On the side journey,
   
-- 🎸 I love to play Guitar along with singing 
-- 🥊 I am into fitness by hitting the Gym and doing calisthenics training.
+- 🎸 I love to play Guitar along with Singing and Beatboxing.
+- 🥊 I am into fitness by hitting the Gym consistently and doing calisthenics training.
 - 💻 Exploring new technologies and upskilling myself from the internet.
 - ⚡ Coding and solving different problems and participating in contests
  
