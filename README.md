@@ -36,11 +36,10 @@
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:saptak.bugatti20@gmail.com)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=1929114@kiit.ac.in&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:1929114@kiit.ac.in)
 
-<br>
-![Visitor Count](https://profile-counter.glitch.me/Saptak10/count.svg)
 
-  
 </h1>
+
+![Visitor Count](https://profile-counter.glitch.me/Saptak10/count.svg)
 
 <br>
 
