@@ -39,7 +39,6 @@
 
 </h1>
 
-<h1 align="center"> ![Visitor Count](https://profile-counter.glitch.me/Saptak10/count.svg) </h1>
 
 <br>
 
