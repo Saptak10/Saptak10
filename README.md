@@ -52,7 +52,7 @@
 ### On the side journey,
   
 - 🎸 I love to play Guitar along with Singing and Beatboxing.
-- 🥊 I am into fitness by hitting the Gym consistently and doing calisthenics training.
+- 🥊 A fitness enthuasiast into Gym, kickboxing and calisthenics for years.
 - 💻 Exploring new technologies and upskilling myself from the internet.
 - ⚡ Coding and solving different problems and participating in contests
  
