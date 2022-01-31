@@ -108,7 +108,17 @@
 
 <h1 align="center">📈 Github Statistics</h1> 
 
-[![Saptak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptak10&show_icons=true&theme=radical)](https://github.com/Saptak10/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Saptak10/github-readme-stats) 
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saptak10&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+   
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak10&theme=radical" />
+</p>
+
+<p align="left">
+  <img width="44%" src="https://github.com/Saptak10/github-stats/blob/master/generated/overview.svg?theme=radical" />
+  
+  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" />
+</p>
 
   <br/>
    <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak%20Chakraborty's%20Contribution%20Graph&theme=react-dark" /></a>
