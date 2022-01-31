@@ -117,7 +117,7 @@
 <p align="left">
   <img width="44%" src="https://github.com/Saptak10/github-stats/blob/master/generated/overview.svg?theme=radical" />
   
-  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" />
+  <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" />
 </p>
 
   <br/>
