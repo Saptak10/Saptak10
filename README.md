@@ -60,15 +60,18 @@
 
 <p align='center'><em><b>If you Learn something new everyday, you can achieve anything in life.</b></em></p><img align="right" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" alt="Saptak's Bitemoji" border="0"/>
   
-## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/) -> MERN Stack Developer
+## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), { Software Developer }
+
 
 - 🌱 Learning new technologies and developing Web Applications 
-- 📚 Currently in 3rd year and pursuing my B.Tech degree in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
+- 📖 Currently in 3rd year and pursuing my B.Tech degree in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
+- 👨‍💻 Freelancing by providing services on developing Web Applications
+- 🔣 Sometimes involved in Open Source Contributions
 
 ### On the side journey,
   
 - 🎸 I love to play Guitar along with Singing and Beatboxing.
-- 🥊 A fitness enthuasiast into Gym, kickboxing and calisthenics for years.
+- 🥊 A fitness enthuasiast into Gym, kickboxing and calisthenics for 5 years.
 - 💻 Exploring new technologies and upskilling myself from the internet.
 - ⚡ Coding in different platforms and giving contests and Hackathons.
  
