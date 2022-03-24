@@ -18,7 +18,7 @@
 </a>
   
 <a href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
-  <img alt="Saptak's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img alt="Saptak's Spotify" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />
 </a>
   
 <a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
@@ -34,15 +34,15 @@
 </a>
    
 <a href="https://www.hackerrank.com/saptak_bugatti20">
-  <img alt="Saptak's HackerRank" width="38x" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
+  <img alt="Saptak's HackerRank" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
 </a>  
    
 <a href="https://auth.geeksforgeeks.org/user/saptak10/profile">
-  <img alt="Saptak's GeeksforGeeks" width="38x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" />
+  <img alt="Saptak's GeeksforGeeks" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" />
 </a> 
    
 <a href="https://leetcode.com/Saptak10/">
-  <img alt="Saptak's Leetcode" width="38x" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+  <img alt="Saptak's Leetcode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" />
 </a>
 
 <a href="https://www.codechef.com/users/saptak10">
