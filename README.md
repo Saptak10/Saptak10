@@ -62,16 +62,15 @@
   
 ## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), Software Developer
 
-
+- 📖 Currently in 3rd year, pursuing B.Tech in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
 - 🌱 Learning new technologies and developing Web Applications 
-- 📖 Currently in 3rd year and pursuing my B.Tech degree in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
-- 👨‍💻 Freelancing by providing services on developing Web Applications
-- 🔣 Sometimes involved in Open Source Contributions
+- 👨‍💻 Freelancing on Web Development
+- 🔣 Open Source Contributor
 
 ### On the side journey,
   
 - 🎸 I love to play Guitar along with Singing and Beatboxing.
-- 🥊 A fitness enthuasiast into Gym, kickboxing and calisthenics for 5 years.
+- 🥊 A fitness enthuasiast into Gym, Kickboxing and Calisthenics for 5 years.
 - 💻 Exploring new technologies and upskilling myself from the internet.
 - ⚡ Coding in different platforms and giving contests and Hackathons.
  
@@ -113,8 +112,8 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=6C52D2)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=Eclipse&logoColor=6C52D2)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter)
   
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
