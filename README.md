@@ -76,8 +76,51 @@
 - ⚡ Coding in different platforms and giving contests and Hackathons.
  
  <br>
-<h1 align="center">Languages and tools I use</h1> 
-<p>
+<h1 align="center">Languages and tools I use</h1>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED1D25)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+  
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node%20Js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![SocketIO](https://img.shields.io/badge/-Socket%20IO-333333?style=flat&logo=Socket.IO)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=E535AB)
+  ![NextJs](https://img.shields.io/badge/-Next%20Js-333333?style=flat&logo=Next.js)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+  
+- 📲 &nbsp;
+   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+   ![MaterialUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=MUI)
+   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku&logoColor=8566FF)
+  
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=6C52D2)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
+  
+- 🖥 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
+  
+<!-- <p>
 <img height="60" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
 <img height="55" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg">
@@ -115,7 +158,7 @@
 <img height="47" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png">
    
 <img height="47" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">
-</p>
+</p> -->
 
 <h1 align="center">📈 Github Statistics</h1> 
 
