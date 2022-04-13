@@ -53,6 +53,10 @@
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=1929114@kiit.ac.in&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:1929114@kiit.ac.in)
 ![](https://komarev.com/ghpvc/?username=Saptak10&style=plastic&label=Profile+Visitors&color=brightgreen)
 
+<a href="https://drive.google.com/file/d/1IQTgILJZXvAaGK__ec4bjiC32dN5iUtE/view?usp=sharing">
+   <table align="center"><td>Resume</td></table>
+</a> 
+   
 </h1>
 
 
