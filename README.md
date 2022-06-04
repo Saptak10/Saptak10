@@ -1,4 +1,6 @@
-<h1 align="center">Saptak Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> </h1>
+<h1 align="center">Saptak Chakraborty 
+<!--    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px">  -->
+</h1>
 
 <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
