@@ -68,7 +68,8 @@
   
 ## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), Software Developer
 
-- 📖 Currently in 3rd year, pursuing B.Tech in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
+- 📖 Currently in 4th year, pursuing B.Tech in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
+- 🏢 Working as a Software Developer Intern at Highradius Corporation.
 - 🌱 Learning new technologies and developing Web Applications 
 - 👨‍💻 Freelancing on Web Development
 - 🔣 Open Source Contributor
