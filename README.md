@@ -16,7 +16,7 @@
 </a>
   
   <a href="https://www.linkedin.com/in/saptak-chakraborty/">
-  <img alt="Saptak's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Saptak's LinkedIN" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
   
 <a href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
@@ -51,13 +51,16 @@
   <img alt="Saptak's Codechef" width="35px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
 </a>  
    
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:saptak.bugatti20@gmail.com)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=1929114@kiit.ac.in&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:1929114@kiit.ac.in)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:saptak.bugatti20@gmail.com) 
 ![](https://komarev.com/ghpvc/?username=Saptak10&style=plastic&label=Profile+Visitors&color=brightgreen)
+<!-- [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=1929114@kiit.ac.in&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:1929114@kiit.ac.in) -->
 
-<a href="https://drive.google.com/file/d/1MyicruQduSc4ffAhWIzB0y1_awUU8aDd/view?usp=sharing">
-   <table align="center"><td>Resume</td></table>
-</a> 
+
+   <kbd> <br><a width="550px" href="https://drive.google.com/file/d/1MyicruQduSc4ffAhWIzB0y1_awUU8aDd/view?usp=sharing"> Resume </a> <br> </kbd>
+<!--    <table align="center"><td>Resume</td></table> -->
+
+   
+   
    
 </h1>
 
