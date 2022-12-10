@@ -56,7 +56,7 @@
 <!-- [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=1929114@kiit.ac.in&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:1929114@kiit.ac.in) -->
 
 
-   <kbd> <br><a width="550px" href="https://drive.google.com/file/d/1MyicruQduSc4ffAhWIzB0y1_awUU8aDd/view?usp=sharing"> Resume </a> <br> </kbd>
+   <kbd> <br><a width="550px" href="https://drive.google.com/file/d/1MyicruQduSc4ffAhWIzB0y1_awUU8aDd/view?usp=sharing">RESUME</a> <br> </kbd>
 <!--    <table align="center"><td>Resume</td></table> -->
 
    
