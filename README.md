@@ -199,8 +199,8 @@
   <img width="49%" src="https://github.com/Saptak10/github-stats/blob/master/generated/overview.svg?theme=radical" />
   
 <!--   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" /> -->
-  <img width="49%" src="https://github.com/Saptak10/github-stats/blob/master/generated/languages.svg?theme=radical" />
-</p>
+<!--   <img width="49%" src="https://github.com/Saptak10/github-stats/blob/master/generated/languages.svg?theme=radical" />
+</p> -->
 <!-- 
   <br/>
    <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak%20Chakraborty's%20Contribution%20Graph&theme=react-dark" /></a>
