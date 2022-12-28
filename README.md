@@ -88,15 +88,14 @@
 <h1 align="center">Languages and tools I use</h1>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED1D25)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFE873)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=ED1D25)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=9B4993)
   
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node%20Js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
@@ -105,8 +104,15 @@
   ![NextJs](https://img.shields.io/badge/-Next%20Js-333333?style=flat&logo=Next.js)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+  ![.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=dotnet&logoColor=00BFFF)
+  ![SpringBoot](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=springboot)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC) 
   
 - 📲 &nbsp;
+   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
    ![MaterialUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=MUI)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
@@ -114,16 +120,22 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku&logoColor=8566FF)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=Eclipse&logoColor=6C52D2)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter)
+  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=flat&logo=visual-studio-code&logoColor=A447EC)
+  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=Eclipse&logoColor=EF8F3C)
+  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellijidea&logoColor=3962E8)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter)
   
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -178,6 +190,12 @@
 </p>
 
 <p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" />
+   
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saptak10" /> -->
+</p>
+
+<!-- <p align="left">
   <img width="49%" src="https://github.com/Saptak10/github-stats/blob/master/generated/overview.svg?theme=radical" />
   
 <!--   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" /> -->
@@ -186,7 +204,7 @@
 
   <br/>
    <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak%20Chakraborty's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
 
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
