@@ -72,7 +72,7 @@
 ## Hey there, I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/), Software Developer
 
 - 📖 Currently in 4th year, pursuing B.Tech in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
-- 🏢 Working as a Software Developer Intern at Highradius Corporation.
+- 🏢 Working as a Software Developer Intern at E-NextCloud Technologies.
 - 🌱 Learning new technologies and developing Web Applications 
 - 👨‍💻 Freelancing on Web Development
 - 🔣 Open Source Contributor
@@ -140,46 +140,6 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
-  
-<!-- <p>
-<img height="60" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
-  
-<img height="55" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg">
-   
-<img height="48" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png">
-
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
-
-<img height="45" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
-   
-<img height="55" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
-   
-<img height="35" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
-  
-<img height="50" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
-  
-<img height="47" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
-   
-<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"> 
-   
-<img height="60" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg"> 
-  
-<img height="47" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
- 
-<img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
-  
-<img height="47" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-   
-<img height="47" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-   
-<img height="47" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
-   
-<img height="47" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png">
-   
-<img height="47" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">
-</p> -->
 
 <h1 align="center">📈 Github Statistics</h1> 
 
