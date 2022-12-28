@@ -201,10 +201,10 @@
 <!--   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" /> -->
   <img width="49%" src="https://github.com/Saptak10/github-stats/blob/master/generated/languages.svg?theme=radical" />
 </p>
-
+<!-- 
   <br/>
    <a href="https://github.com/Saptak10"><img alt="Saptak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saptak10&custom_title=Saptak%20Chakraborty's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/> -->
+  <br/> --> -->
 
 <!--
 **Saptak10/Saptak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
