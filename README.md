@@ -89,6 +89,7 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=9B4993)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node%20Js-333333?style=flat&logo=node.js)
@@ -100,9 +101,10 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
   ![.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=dotnet&logoColor=00BFFF)
-  ![SpringBoot](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=springboot)
+  ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC) 
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD1B16)
   
 - 📲 &nbsp;
    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
