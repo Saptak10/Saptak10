@@ -126,6 +126,9 @@
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku&logoColor=8566FF)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=ff9900)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -133,6 +136,7 @@
   ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=Eclipse&logoColor=EF8F3C)
   ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellijidea&logoColor=3962E8)
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=ffff00)
   
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
