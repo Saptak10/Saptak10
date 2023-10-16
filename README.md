@@ -8,7 +8,7 @@
 </a>
   
  <a href="https://www.facebook.com/Saptak10">
-  <img alt="Saptak's Facebook" width="33px" src="https://pnggrid.com/wp-content/uploads/2021/05/Facebook-logo-2021.png" />
+  <img alt="Saptak's Facebook" width="33px" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" />
 </a>
   
   <a href="https://www.instagram.com/saptak10/">
@@ -66,8 +66,8 @@
   
 ## Hey there -> I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/)
 
-- 📖 Currently in 4th year, pursuing B.Tech in Computer Science from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar
-- 🏢 Working as a Software Developer Intern at E-NextCloud Technologies.
+- 🏢 Working as a Software Engineer at CGI Inc.
+- 📖 Graduated Currently from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar on B.Tech in Computer Science
 - 🌱 Learning new technologies and developing Web Applications 
 - 👨‍💻 Freelancing on Web Development
 - 🔣 Open Source Contributor
