@@ -67,7 +67,7 @@
 ## Hey there -> I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/)
 
 - 🏢 Working as a Software Engineer at CGI Inc.
-- 📖 Graduated Currently from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar on B.Tech in Computer Science
+- 📖 Graduated from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar on B.Tech in Computer Science
 - 🌱 Learning new technologies and developing Web Applications 
 - 👨‍💻 Freelancing on Web Development
 - 🔣 Open Source Contributor
