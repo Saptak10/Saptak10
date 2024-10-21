@@ -66,18 +66,24 @@
   
 ## Hey there -> I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/)
 
-- 🏢 Working as a Software Engineer at CGI Inc.
-- 📖 Graduated from Kalinga Institue of Industrial Technology (KiiT University), Bhubaneshwar on B.Tech in Computer Science
-- 🌱 Learning new technologies and developing Web Applications 
-- 👨‍💻 Freelancing on Web Development
-- 🔣 Open Source Contributor
+👨‍💻 **Software Engineer** at CGI Inc.  
+🎓 Graduated with a **B.Tech in Computer Science** from Kalinga Institute of Industrial Technology (KIIT University), Bhubaneswar  
+🌱 Passionate about **learning new technologies** and developing cutting-edge **web applications**  
+💼 Freelancing in **web development**, delivering tailored solutions for clients  
+🔣 Dedicated **Open Source Contributor**, collaborating on projects that enhance the tech ecosystem 
 
-### On the side journey,
-  
-- 🎸 I love to play Guitar along with Singing and Beatboxing.
-- 🥊 A fitness enthuasiast into Gym, Kickboxing and Calisthenics for 5 years.
-- 💻 Exploring new technologies and upskilling myself from the internet.
-- ⚡ Coding in different platforms and giving contests and Hackathons.
+---
+
+## A little more about me:
+
+🎸 A musician at heart – I love playing guitar, singing, and beatboxing in my free time  
+🥊 **Fitness enthusiast** with 5+ years of experience in gym training, kickboxing, and calisthenics  
+💻 Always **exploring new tech trends** and constantly upskilling through online platforms  
+⚡ Active participant in **coding challenges**, hackathons, and tech competitions  
+
+---
+
+Feel free to connect with me and check out my work!
  
  <br>
 <h1 align="center">Languages and tools I use</h1>
