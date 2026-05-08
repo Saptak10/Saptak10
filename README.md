@@ -165,16 +165,15 @@ Feel free to connect with me and check out my work!
 <h1 align="center">📈 Github Statistics</h1> 
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saptak10&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
    
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak10&theme=radical" />
+
+  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Saptak10&theme=radical)](https://github.com/Saptak10/github-readme-profile)
 </p>
 
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak10&layout=compact&theme=radical" />
-   
-<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saptak10" /> -->
-</p>
+<a href="https://github.com/Saptak10">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saptak10&theme=monokai" />
+</a>
 
 <!-- <p align="left">
   <img width="49%" src="https://github.com/Saptak10/github-stats/blob/master/generated/overview.svg?theme=radical" />
