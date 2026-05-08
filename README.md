@@ -66,8 +66,12 @@
   
 ## Hey there -> I am [Saptak Chakraborty](https://saptakportfolio.netlify.app/)
 
-👨‍💻 **Software Engineer** at CGI Inc.  
-🎓 Graduated with a **B.Tech in Computer Science** from Kalinga Institute of Industrial Technology (KIIT University), Bhubaneswar  
+🎓 Pursuing my **M.Sc. in Data and Knowledge Engineering (Data Science)** from Otto-von-Guericke Universität (OVGU), Magdeburg, Germany
+👨‍💻 Previous Full-time **Software Engineer** at CGI ISMC Pvt Ltd, Hyderabad, India, with **2 years of Experience**.  
+👨‍💻 third internship as a **Software Developer** at Highway Delite, Bangalore, India, with **4 months of Experience**.  
+👨‍💻 Second internship as a **Software Developer** at Gridzy, Bangalore, India, with **6 months of Experience**. 
+👨‍💻 First internship as a **Software Developer** at Highradius Corporation, Bhubaneswar, India, with **10 months of Experience**. 
+🎓 Graduated with a **B.Tech in Computer Science** from Kalinga Institute of Industrial Technology (KIIT University), Bhubaneswar, India  
 🌱 Passionate about **learning new technologies** and developing cutting-edge **web applications**  
 💼 Freelancing in **web development**, delivering tailored solutions for clients  
 🔣 Dedicated **Open Source Contributor**, collaborating on projects that enhance the tech ecosystem 
@@ -96,6 +100,16 @@ Feel free to connect with me and check out my work!
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=9B4993)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+
+- 🤖 &nbsp;
+  ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=pytorch)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=Plotly)
+<!--   ![Sci-Kit Learn](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
+  ![Ski-Image](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow) -->
   
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node%20Js-333333?style=flat&logo=node.js)
