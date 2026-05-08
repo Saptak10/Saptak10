@@ -168,7 +168,7 @@ Feel free to connect with me and check out my work!
    
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak10&theme=radical" />
 
-  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Saptak10&theme=radical)](https://github.com/Saptak10/github-readme-profile)
+  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Saptak10&theme=gruvbox_light)](https://github.com/Saptak10/github-readme-profile)
 </p>
 
 <a href="https://github.com/Saptak10">
